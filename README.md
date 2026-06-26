@@ -1,16 +1,38 @@
-## Hi there 👋
+# Henry C. V. — Software Engineer
 
-<!--
-**Henry-cmd325/Henry-cmd325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.NET specialist building tools that ship to real users.
 
-Here are some ideas to get you started:
+Currently working on **[FastSharp](https://github.com/Henry-cmd325/FastSharp)** — a convention-over-configuration framework for .NET Minimal APIs, published on NuGet — and **PictoBoards**, a SaaS communication board tool for therapeutic support professionals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I work with
+
+**Core:** C# · ASP.NET Core · .NET Minimal APIs · Entity Framework Core  
+**Infrastructure:** Azure Container Apps · Cloudflare Pages · Neon PostgreSQL · Auth0 · Cloudinary  
+**Frontend:** Nuxt · Vue  
+**Tooling:** GitHub Actions · Docker · Azure DevOps
+
+---
+
+## Projects
+
+| Project | What it is | Status |
+|---|---|---|
+| [FastSharp](https://github.com/Henry-cmd325/FastSharp) | Modular, convention-driven framework for .NET Minimal APIs | Active · Published on NuGet |
+| PictoBoards | SaaS communication boards for therapeutic support professionals | In development |
+
+---
+
+## Background
+
+~6 years building with .NET, including 4 of self-directed study before going professional. I lean toward vertical slice architecture, minimal APIs, and building things that eventually reach paying users — not just portfolios.
+
+Focused on building production-grade .NET software and growing in the open-source ecosystem.
+
+---
+
+## Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/henry-alejandro-canales-valles)
+- 📦 [FastSharp on NuGet](https://www.nuget.org/packages/FastSharp.Modules)
